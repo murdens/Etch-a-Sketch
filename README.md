@@ -1,6 +1,7 @@
 @TheOdinProject
 
 Etch-a-Sketch Project
+https://murdens.github.io/Etch-a-Sketch/
 
 Assignment:
 - Create a grid using JS and append to HTML container
